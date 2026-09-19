@@ -1,0 +1,62 @@
+.
+├── architecture.md
+├── review-request.md
+├── src
+│   └── DeviceMonitor
+│       ├── DeviceMonitor.csproj
+│       ├── DeviceMonitor.http
+│       ├── Program.cs
+│       ├── Properties
+│       │   └── launchSettings.json
+│       ├── appsettings.Development.json
+│       ├── appsettings.json
+│       ├── bin
+│       │   └── Debug
+│       │       └── net9.0
+│       │           ├── DeviceMonitor
+│       │           ├── DeviceMonitor.deps.json
+│       │           ├── DeviceMonitor.dll
+│       │           ├── DeviceMonitor.pdb
+│       │           ├── DeviceMonitor.runtimeconfig.json
+│       │           ├── DeviceMonitor.staticwebassets.endpoints.json
+│       │           ├── Microsoft.AspNetCore.OpenApi.dll
+│       │           ├── Microsoft.OpenApi.dll
+│       │           ├── appsettings.Development.json
+│       │           └── appsettings.json
+│       └── obj
+│           ├── Debug
+│           │   └── net9.0
+│           │       ├── DeviceMo.0B68BDC0.Up2Date
+│           │       ├── DeviceMonitor.AssemblyInfo.cs
+│           │       ├── DeviceMonitor.AssemblyInfoInputs.cache
+│           │       ├── DeviceMonitor.GeneratedMSBuildEditorConfig.editorconfig
+│           │       ├── DeviceMonitor.GlobalUsings.g.cs
+│           │       ├── DeviceMonitor.MvcApplicationPartsAssemblyInfo.cache
+│           │       ├── DeviceMonitor.MvcApplicationPartsAssemblyInfo.cs
+│           │       ├── DeviceMonitor.assets.cache
+│           │       ├── DeviceMonitor.csproj.AssemblyReference.cache
+│           │       ├── DeviceMonitor.csproj.CoreCompileInputs.cache
+│           │       ├── DeviceMonitor.csproj.FileListAbsolute.txt
+│           │       ├── DeviceMonitor.dll
+│           │       ├── DeviceMonitor.genruntimeconfig.cache
+│           │       ├── DeviceMonitor.pdb
+│           │       ├── DeviceMonitor.sourcelink.json
+│           │       ├── apphost
+│           │       ├── ref
+│           │       │   └── DeviceMonitor.dll
+│           │       ├── refint
+│           │       │   └── DeviceMonitor.dll
+│           │       ├── staticwebassets
+│           │       │   ├── msbuild.build.DeviceMonitor.props
+│           │       │   ├── msbuild.buildMultiTargeting.DeviceMonitor.props
+│           │       │   └── msbuild.buildTransitive.DeviceMonitor.props
+│           │       ├── staticwebassets.build.endpoints.json
+│           │       └── staticwebassets.build.json
+│           ├── DeviceMonitor.csproj.nuget.dgspec.json
+│           ├── DeviceMonitor.csproj.nuget.g.props
+│           ├── DeviceMonitor.csproj.nuget.g.targets
+│           ├── project.assets.json
+│           └── project.nuget.cache
+└── tree.txt
+
+12 directories, 47 files
