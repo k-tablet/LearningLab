@@ -1,3 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
 
-bin/
-obj/
+# Jupyter
+.ipynb_checkpoints/
+
+# OpenModelica
+*.mat
+*.log
+*.csv
+*.plt
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+.env.*
+
+# Private data
+private/
+
+# Simulation outputs
+results/**/*.mat
+results/**/*.csv
+results/**/*.log
+create_learninglab.sh
