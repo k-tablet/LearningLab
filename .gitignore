@@ -35,3 +35,5 @@ results/**/*.mat
 results/**/*.csv
 results/**/*.log
 create_learninglab.sh
+/projects/.config
+/projects/.openmodelica
